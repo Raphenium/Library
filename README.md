@@ -6,4 +6,4 @@ Test driven development approach was followed.
 
 I followed DRY(Dont repeat yourself) principle in other to make recurring changes easy to carry out.
 
-Docker file was also added.
+Dockerfile was also added.
